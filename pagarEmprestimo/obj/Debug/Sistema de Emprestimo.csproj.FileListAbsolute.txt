@@ -1,0 +1,57 @@
+C:\Users\Eduardo\Documents\Estudos\C#\pagarEmprestimo\bin\Debug\pagarEmprestimo.exe.config
+C:\Users\Eduardo\Documents\Estudos\C#\pagarEmprestimo\bin\Debug\pagarEmprestimo.exe
+C:\Users\Eduardo\Documents\Estudos\C#\pagarEmprestimo\bin\Debug\pagarEmprestimo.pdb
+C:\Users\Eduardo\Documents\Estudos\C#\pagarEmprestimo\obj\Debug\Sistema de Emprestimo.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Documents\Estudos\C#\pagarEmprestimo\obj\Debug\Sistema_de_Emprestimo.PagarEmprestimo.resources
+C:\Users\Eduardo\Documents\Estudos\C#\pagarEmprestimo\obj\Debug\Sistema_de_Emprestimo.RegistrarEmprestimo.resources
+C:\Users\Eduardo\Documents\Estudos\C#\pagarEmprestimo\obj\Debug\Sistema de Emprestimo.csproj.GenerateResource.cache
+C:\Users\Eduardo\Documents\Estudos\C#\pagarEmprestimo\obj\Debug\Sistema de Emprestimo.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\Estudos\C#\pagarEmprestimo\obj\Debug\pagarEmprestimo.exe
+C:\Users\Eduardo\Documents\Estudos\C#\pagarEmprestimo\obj\Debug\pagarEmprestimo.pdb
+C:\Users\Eduardo\Documents\Estudos\C#\pagarEmprestimo\obj\Debug\PagarEmprestimo.Properties.Resources.resources
+C:\Users\Eduardo\Documents\Estudos\C#\pagarEmprestimo\obj\Debug\Sistema_de_Emprestimo.MenuPrincipal.resources
+C:\Users\Eduardo\Documents\Sistema de Emprestimo\pagarEmprestimo\bin\Debug\PagarEmprestimo.exe.config
+C:\Users\Eduardo\Documents\Sistema de Emprestimo\pagarEmprestimo\bin\Debug\PagarEmprestimo.exe
+C:\Users\Eduardo\Documents\Sistema de Emprestimo\pagarEmprestimo\bin\Debug\PagarEmprestimo.pdb
+C:\Users\Eduardo\Documents\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\Sistema de Emprestimo.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Documents\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\Sistema_de_Emprestimo.PagarEmprestimo.resources
+C:\Users\Eduardo\Documents\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\Sistema_de_Emprestimo.MenuPrincipal.resources
+C:\Users\Eduardo\Documents\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\PagarEmprestimo.Properties.Resources.resources
+C:\Users\Eduardo\Documents\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\Sistema_de_Emprestimo.RegistrarEmprestimo.resources
+C:\Users\Eduardo\Documents\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\Sistema de Emprestimo.csproj.GenerateResource.cache
+C:\Users\Eduardo\Documents\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\Sistema de Emprestimo.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\PagarEmprestimo.exe
+C:\Users\Eduardo\Documents\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\PagarEmprestimo.pdb
+C:\Users\Eduardo\Documents\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\Sistema_de_Emprestimo.ConsultarUsuario.resources
+C:\Users\Eduardo\Documents\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\Sistema_de_Emprestimo.AlterarSenha.resources
+C:\Users\unisanta\Downloads\Sistema de Emprestimo\pagarEmprestimo\bin\Debug\PagarEmprestimo.exe.config
+C:\Users\unisanta\Downloads\Sistema de Emprestimo\pagarEmprestimo\bin\Debug\PagarEmprestimo.exe
+C:\Users\unisanta\Downloads\Sistema de Emprestimo\pagarEmprestimo\bin\Debug\PagarEmprestimo.pdb
+C:\Users\unisanta\Downloads\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\Sistema de Emprestimo.csproj.AssemblyReference.cache
+C:\Users\unisanta\Downloads\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\Sistema de Emprestimo.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Downloads\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\Sistema_de_Emprestimo.AlterarSenha.resources
+C:\Users\unisanta\Downloads\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\Sistema_de_Emprestimo.ConsultarUsuario.resources
+C:\Users\unisanta\Downloads\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\Sistema_de_Emprestimo.PagarEmprestimo.resources
+C:\Users\unisanta\Downloads\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\Sistema_de_Emprestimo.MenuPrincipal.resources
+C:\Users\unisanta\Downloads\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\PagarEmprestimo.Properties.Resources.resources
+C:\Users\unisanta\Downloads\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\Sistema_de_Emprestimo.RegistrarEmprestimo.resources
+C:\Users\unisanta\Downloads\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\Sistema de Emprestimo.csproj.GenerateResource.cache
+C:\Users\unisanta\Downloads\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\Sistema de Emprestimo.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Downloads\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\PagarEmprestimo.exe
+C:\Users\unisanta\Downloads\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\PagarEmprestimo.pdb
+C:\Users\unisanta\Downloads\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\PagarEmprestimo.CadastrarUsuario.resources
+C:\Users\Eduardo\Downloads\Sistema de Emprestimo\pagarEmprestimo\bin\Debug\PagarEmprestimo.exe.config
+C:\Users\Eduardo\Downloads\Sistema de Emprestimo\pagarEmprestimo\bin\Debug\PagarEmprestimo.exe
+C:\Users\Eduardo\Downloads\Sistema de Emprestimo\pagarEmprestimo\bin\Debug\PagarEmprestimo.pdb
+C:\Users\Eduardo\Downloads\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\Sistema de Emprestimo.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Downloads\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\Sistema_de_Emprestimo.AlterarSenha.resources
+C:\Users\Eduardo\Downloads\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\PagarEmprestimo.CadastrarUsuario.resources
+C:\Users\Eduardo\Downloads\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\Sistema_de_Emprestimo.ConsultarUsuario.resources
+C:\Users\Eduardo\Downloads\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\Sistema_de_Emprestimo.PagarEmprestimo.resources
+C:\Users\Eduardo\Downloads\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\Sistema_de_Emprestimo.MenuPrincipal.resources
+C:\Users\Eduardo\Downloads\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\PagarEmprestimo.Properties.Resources.resources
+C:\Users\Eduardo\Downloads\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\Sistema_de_Emprestimo.RegistrarEmprestimo.resources
+C:\Users\Eduardo\Downloads\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\Sistema de Emprestimo.csproj.GenerateResource.cache
+C:\Users\Eduardo\Downloads\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\Sistema de Emprestimo.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Downloads\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\PagarEmprestimo.exe
+C:\Users\Eduardo\Downloads\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\PagarEmprestimo.pdb
