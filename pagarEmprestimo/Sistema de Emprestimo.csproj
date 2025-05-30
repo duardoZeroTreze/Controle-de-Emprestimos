@@ -38,6 +38,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -50,70 +51,79 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AlterarSenha.cs">
+    <Compile Include="Formulários\AlterarSenha.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="AlterarSenha.Designer.cs">
+    <Compile Include="Formulários\AlterarSenha.Designer.cs">
       <DependentUpon>AlterarSenha.cs</DependentUpon>
     </Compile>
-    <Compile Include="CadastrarUsuario.cs">
+    <Compile Include="Formulários\CadastrarUsuario.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="CadastrarUsuario.Designer.cs">
+    <Compile Include="Formulários\CadastrarUsuario.Designer.cs">
       <DependentUpon>CadastrarUsuario.cs</DependentUpon>
     </Compile>
-    <Compile Include="ConsultarUsuario.cs">
+    <Compile Include="Formulários\ConsultarUsuario.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ConsultarUsuario.Designer.cs">
+    <Compile Include="Formulários\ConsultarUsuario.Designer.cs">
       <DependentUpon>ConsultarUsuario.cs</DependentUpon>
     </Compile>
-    <Compile Include="Emprestimo.cs" />
-    <Compile Include="ExcluirUsuario.cs">
+    <Compile Include="Classes\Emprestimo.cs" />
+    <Compile Include="Formulários\ExcluirUsuario.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ExcluirUsuario.Designer.cs">
+    <Compile Include="Formulários\ExcluirUsuario.Designer.cs">
       <DependentUpon>ExcluirUsuario.cs</DependentUpon>
     </Compile>
-    <Compile Include="PagarEmprestimo.cs">
+    <Compile Include="Formulários\PagarEmprestimo.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="PagarEmprestimo.Designer.cs">
+    <Compile Include="Formulários\PagarEmprestimo.Designer.cs">
       <DependentUpon>PagarEmprestimo.cs</DependentUpon>
     </Compile>
-    <Compile Include="MenuPrincipal.cs">
+    <Compile Include="Formulários\MenuPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="MenuPrincipal.Designer.cs">
+    <Compile Include="Formulários\MenuPrincipal.Designer.cs">
       <DependentUpon>MenuPrincipal.cs</DependentUpon>
     </Compile>
-    <Compile Include="Program.cs" />
-    <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RegistrarEmprestimo.cs">
+    <Compile Include="Classes\Program.cs" />
+    <Compile Include="Formulários\ResetarSenha.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="RegistrarEmprestimo.Designer.cs">
+    <Compile Include="Formulários\ResetarSenha.Designer.cs">
+      <DependentUpon>ResetarSenha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Formulários\RegistrarEmprestimo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formulários\RegistrarEmprestimo.Designer.cs">
       <DependentUpon>RegistrarEmprestimo.cs</DependentUpon>
     </Compile>
-    <Compile Include="Sistema.cs" />
-    <Compile Include="Usuario.cs" />
-    <EmbeddedResource Include="AlterarSenha.resx">
+    <Compile Include="Classes\Sistema.cs" />
+    <Compile Include="Classes\Usuario.cs" />
+    <EmbeddedResource Include="Formulários\AlterarSenha.resx">
       <DependentUpon>AlterarSenha.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="CadastrarUsuario.resx">
+    <EmbeddedResource Include="Formulários\CadastrarUsuario.resx">
       <DependentUpon>CadastrarUsuario.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ConsultarUsuario.resx">
+    <EmbeddedResource Include="Formulários\ConsultarUsuario.resx">
       <DependentUpon>ConsultarUsuario.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ExcluirUsuario.resx">
+    <EmbeddedResource Include="Formulários\ExcluirUsuario.resx">
       <DependentUpon>ExcluirUsuario.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="PagarEmprestimo.resx">
+    <EmbeddedResource Include="Formulários\PagarEmprestimo.resx">
       <DependentUpon>PagarEmprestimo.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="MenuPrincipal.resx">
+    <EmbeddedResource Include="Formulários\MenuPrincipal.resx">
       <DependentUpon>MenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formulários\ResetarSenha.resx">
+      <DependentUpon>ResetarSenha.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -125,7 +135,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="RegistrarEmprestimo.resx">
+    <EmbeddedResource Include="Formulários\RegistrarEmprestimo.resx">
       <DependentUpon>RegistrarEmprestimo.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">

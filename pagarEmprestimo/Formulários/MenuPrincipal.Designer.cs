@@ -36,6 +36,7 @@
             this.btn_alterarSenha = new System.Windows.Forms.Button();
             this.btn_cadastrar = new System.Windows.Forms.Button();
             this.btn_excluir = new System.Windows.Forms.Button();
+            this.btn_resetar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -124,11 +125,23 @@
             this.btn_excluir.UseVisualStyleBackColor = true;
             this.btn_excluir.Click += new System.EventHandler(this.btn_excluir_Click);
             // 
+            // btn_resetar
+            // 
+            this.btn_resetar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
+            this.btn_resetar.Location = new System.Drawing.Point(581, 86);
+            this.btn_resetar.Name = "btn_resetar";
+            this.btn_resetar.Size = new System.Drawing.Size(158, 43);
+            this.btn_resetar.TabIndex = 9;
+            this.btn_resetar.Text = "Resetar senha";
+            this.btn_resetar.UseVisualStyleBackColor = true;
+            this.btn_resetar.Click += new System.EventHandler(this.btn_resetar_Click);
+            // 
             // MenuPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(781, 284);
+            this.Controls.Add(this.btn_resetar);
             this.Controls.Add(this.btn_excluir);
             this.Controls.Add(this.btn_cadastrar);
             this.Controls.Add(this.btn_alterarSenha);
@@ -154,5 +167,6 @@
         private System.Windows.Forms.Button btn_alterarSenha;
         private System.Windows.Forms.Button btn_cadastrar;
         private System.Windows.Forms.Button btn_excluir;
+        private System.Windows.Forms.Button btn_resetar;
     }
 }

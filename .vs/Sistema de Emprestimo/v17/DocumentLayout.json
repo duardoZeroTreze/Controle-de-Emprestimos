@@ -3,36 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|c:\\users\\eduardo\\downloads\\sistema de emprestimo\\pagaremprestimo\\alterarsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|solutionrelative:pagaremprestimo\\alterarsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|c:\\users\\eduardo\\downloads\\sistema de emprestimo\\pagaremprestimo\\classes\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|solutionrelative:pagaremprestimo\\classes\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|c:\\users\\eduardo\\downloads\\sistema de emprestimo\\pagaremprestimo\\excluirusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|solutionrelative:pagaremprestimo\\excluirusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|c:\\users\\eduardo\\downloads\\sistema de emprestimo\\pagaremprestimo\\formul\u00E1rios\\resetarsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|solutionrelative:pagaremprestimo\\formul\u00E1rios\\resetarsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|c:\\users\\eduardo\\downloads\\sistema de emprestimo\\pagaremprestimo\\alterarsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|solutionrelative:pagaremprestimo\\alterarsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|c:\\users\\eduardo\\downloads\\sistema de emprestimo\\pagaremprestimo\\formul\u00E1rios\\resetarsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|solutionrelative:pagaremprestimo\\formul\u00E1rios\\resetarsenha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagaremprestimo\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|solutionrelative:pagaremprestimo\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|c:\\users\\eduardo\\downloads\\sistema de emprestimo\\pagaremprestimo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|solutionrelative:pagaremprestimo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|c:\\users\\eduardo\\downloads\\sistema de emprestimo\\pagaremprestimo\\excluirusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|solutionrelative:pagaremprestimo\\excluirusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|c:\\users\\eduardo\\downloads\\sistema de emprestimo\\pagaremprestimo\\formul\u00E1rios\\cadastrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|solutionrelative:pagaremprestimo\\formul\u00E1rios\\cadastrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|c:\\users\\eduardo\\downloads\\sistema de emprestimo\\pagaremprestimo\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|solutionrelative:pagaremprestimo\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|c:\\users\\eduardo\\downloads\\sistema de emprestimo\\pagaremprestimo\\classes\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|solutionrelative:pagaremprestimo\\classes\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagaremprestimo\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|solutionrelative:pagaremprestimo\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|c:\\users\\eduardo\\downloads\\sistema de emprestimo\\pagaremprestimo\\formul\u00E1rios\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|solutionrelative:pagaremprestimo\\formul\u00E1rios\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagaremprestimo\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|solutionrelative:pagaremprestimo\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|c:\\users\\eduardo\\downloads\\sistema de emprestimo\\pagaremprestimo\\formul\u00E1rios\\cadastrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|solutionrelative:pagaremprestimo\\formul\u00E1rios\\cadastrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|c:\\users\\eduardo\\downloads\\sistema de emprestimo\\pagaremprestimo\\formul\u00E1rios\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C3A80E9-038E-45B7-9D5D-BF3139F4E664}|pagarEmprestimo\\Sistema de Emprestimo.csproj|solutionrelative:pagaremprestimo\\formul\u00E1rios\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,103 +54,117 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AlterarSenha.cs",
-              "DocumentMoniker": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\AlterarSenha.cs",
-              "RelativeDocumentMoniker": "pagarEmprestimo\\AlterarSenha.cs",
-              "ToolTip": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\AlterarSenha.cs",
-              "RelativeToolTip": "pagarEmprestimo\\AlterarSenha.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T04:22:41.274Z",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\App.config",
+              "RelativeDocumentMoniker": "pagarEmprestimo\\App.config",
+              "ToolTip": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\App.config",
+              "RelativeToolTip": "pagarEmprestimo\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-30T23:11:08.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ExcluirUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\ExcluirUsuario.cs",
-              "RelativeDocumentMoniker": "pagarEmprestimo\\ExcluirUsuario.cs",
-              "ToolTip": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\ExcluirUsuario.cs",
-              "RelativeToolTip": "pagarEmprestimo\\ExcluirUsuario.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwDAAAAA1AAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "CadastrarUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\Formul\u00E1rios\\CadastrarUsuario.cs",
+              "RelativeDocumentMoniker": "pagarEmprestimo\\Formul\u00E1rios\\CadastrarUsuario.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\Formul\u00E1rios\\CadastrarUsuario.cs",
+              "RelativeToolTip": "pagarEmprestimo\\Formul\u00E1rios\\CadastrarUsuario.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T04:09:26.249Z",
+              "WhenOpened": "2025-05-30T22:28:51.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CadastrarUsuario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\Formul\u00E1rios\\CadastrarUsuario.cs",
+              "RelativeDocumentMoniker": "pagarEmprestimo\\Formul\u00E1rios\\CadastrarUsuario.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\Formul\u00E1rios\\CadastrarUsuario.cs [Design]",
+              "RelativeToolTip": "pagarEmprestimo\\Formul\u00E1rios\\CadastrarUsuario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T22:28:50.046Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResetarSenha.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\Formul\u00E1rios\\ResetarSenha.cs",
+              "RelativeDocumentMoniker": "pagarEmprestimo\\Formul\u00E1rios\\ResetarSenha.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\Formul\u00E1rios\\ResetarSenha.cs",
+              "RelativeToolTip": "pagarEmprestimo\\Formul\u00E1rios\\ResetarSenha.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwD0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T21:45:53.992Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AlterarSenha.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\AlterarSenha.cs",
-              "RelativeDocumentMoniker": "pagarEmprestimo\\AlterarSenha.cs",
-              "ToolTip": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\AlterarSenha.cs [Design]",
-              "RelativeToolTip": "pagarEmprestimo\\AlterarSenha.cs [Design]",
+              "Title": "ResetarSenha.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\Formul\u00E1rios\\ResetarSenha.cs",
+              "RelativeDocumentMoniker": "pagarEmprestimo\\Formul\u00E1rios\\ResetarSenha.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\Formul\u00E1rios\\ResetarSenha.cs [Design]",
+              "RelativeToolTip": "pagarEmprestimo\\Formul\u00E1rios\\ResetarSenha.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T04:06:23.5Z",
+              "WhenOpened": "2025-05-30T21:40:39.716Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ExcluirUsuario.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\ExcluirUsuario.cs",
-              "RelativeDocumentMoniker": "pagarEmprestimo\\ExcluirUsuario.cs",
-              "ToolTip": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\ExcluirUsuario.cs [Design]",
-              "RelativeToolTip": "pagarEmprestimo\\ExcluirUsuario.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T04:05:54.814Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Emprestimo.cs",
-              "DocumentMoniker": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\Emprestimo.cs",
-              "RelativeDocumentMoniker": "pagarEmprestimo\\Emprestimo.cs",
-              "ToolTip": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\Emprestimo.cs",
-              "RelativeToolTip": "pagarEmprestimo\\Emprestimo.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAYwAYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T17:54:22.136Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "MenuPrincipal.cs",
-              "DocumentMoniker": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\MenuPrincipal.cs",
-              "RelativeDocumentMoniker": "pagarEmprestimo\\MenuPrincipal.cs",
-              "ToolTip": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\MenuPrincipal.cs",
-              "RelativeToolTip": "pagarEmprestimo\\MenuPrincipal.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAD4vzgAAAAfAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\Formul\u00E1rios\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "pagarEmprestimo\\Formul\u00E1rios\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\Formul\u00E1rios\\MenuPrincipal.cs",
+              "RelativeToolTip": "pagarEmprestimo\\Formul\u00E1rios\\MenuPrincipal.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwD4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T16:58:44.802Z",
+              "WhenOpened": "2025-05-30T21:39:22.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Sistema.cs",
-              "DocumentMoniker": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\Sistema.cs",
-              "RelativeDocumentMoniker": "pagarEmprestimo\\Sistema.cs",
-              "ToolTip": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\Sistema.cs",
-              "RelativeToolTip": "pagarEmprestimo\\Sistema.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwIcAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\Classes\\Usuario.cs",
+              "RelativeDocumentMoniker": "pagarEmprestimo\\Classes\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\Classes\\Usuario.cs",
+              "RelativeToolTip": "pagarEmprestimo\\Classes\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T17:24:13.319Z",
+              "WhenOpened": "2025-05-30T21:30:31.67Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "MenuPrincipal.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\MenuPrincipal.cs",
-              "RelativeDocumentMoniker": "pagarEmprestimo\\MenuPrincipal.cs",
-              "ToolTip": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\MenuPrincipal.cs [Design]",
-              "RelativeToolTip": "pagarEmprestimo\\MenuPrincipal.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\Formul\u00E1rios\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "pagarEmprestimo\\Formul\u00E1rios\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\Formul\u00E1rios\\MenuPrincipal.cs [Design]",
+              "RelativeToolTip": "pagarEmprestimo\\Formul\u00E1rios\\MenuPrincipal.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-11T16:57:38.802Z",
+              "WhenOpened": "2025-05-30T21:26:46.374Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sistema.cs",
+              "DocumentMoniker": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\Classes\\Sistema.cs",
+              "RelativeDocumentMoniker": "pagarEmprestimo\\Classes\\Sistema.cs",
+              "ToolTip": "C:\\Users\\Eduardo\\Downloads\\Sistema de Emprestimo\\pagarEmprestimo\\Classes\\Sistema.cs",
+              "RelativeToolTip": "pagarEmprestimo\\Classes\\Sistema.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T21:25:29.961Z",
+              "EditorCaption": ""
             }
           ]
         }

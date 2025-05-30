@@ -46,7 +46,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.25F);
-            this.label1.Location = new System.Drawing.Point(36, 29);
+            this.label1.Location = new System.Drawing.Point(172, 9);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(224, 26);
             this.label1.TabIndex = 0;
@@ -76,7 +76,7 @@
             // dtp_data
             // 
             this.dtp_data.Format = System.Windows.Forms.DateTimePickerFormat.Short;
-            this.dtp_data.Location = new System.Drawing.Point(39, 287);
+            this.dtp_data.Location = new System.Drawing.Point(315, 103);
             this.dtp_data.Name = "dtp_data";
             this.dtp_data.Size = new System.Drawing.Size(106, 20);
             this.dtp_data.TabIndex = 4;
@@ -115,7 +115,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F);
-            this.label5.Location = new System.Drawing.Point(35, 260);
+            this.label5.Location = new System.Drawing.Point(311, 76);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(178, 24);
             this.label5.TabIndex = 8;
@@ -123,7 +123,7 @@
             // 
             // txt_senha
             // 
-            this.txt_senha.Location = new System.Drawing.Point(395, 100);
+            this.txt_senha.Location = new System.Drawing.Point(315, 164);
             this.txt_senha.Name = "txt_senha";
             this.txt_senha.Size = new System.Drawing.Size(95, 20);
             this.txt_senha.TabIndex = 9;
@@ -132,7 +132,7 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F);
-            this.label6.Location = new System.Drawing.Point(391, 73);
+            this.label6.Location = new System.Drawing.Point(311, 137);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(167, 24);
             this.label6.TabIndex = 10;
@@ -141,7 +141,7 @@
             // btn_registrar
             // 
             this.btn_registrar.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F);
-            this.btn_registrar.Location = new System.Drawing.Point(395, 142);
+            this.btn_registrar.Location = new System.Drawing.Point(315, 206);
             this.btn_registrar.Name = "btn_registrar";
             this.btn_registrar.Size = new System.Drawing.Size(142, 39);
             this.btn_registrar.TabIndex = 11;
@@ -153,7 +153,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(553, 291);
             this.Controls.Add(this.btn_registrar);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.txt_senha);

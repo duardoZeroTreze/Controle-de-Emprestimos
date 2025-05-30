@@ -1,7 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Drawing;
 using System.Linq;
+using System.Net;
+using System.Net.Mail;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -17,10 +20,10 @@ namespace Sistema_de_Emprestimo
         public Sistema()
         {
             usuarios = new List<Usuario>();
-            Usuario Maria = new Usuario("Maria", "543");
-            Usuario Joao = new Usuario("João", "543");
-            Usuario Jose = new Usuario("José", "543");
-            Usuario Antonio = new Usuario("Antonio", "543");
+            Usuario Maria = new Usuario("Maria", "543", "maria@gmail.com");
+            Usuario Joao = new Usuario("João", "543", "joão@outlook.com");
+            Usuario Jose = new Usuario("José", "543", "josé@yahoo.com");
+            Usuario Antonio = new Usuario("Antonio", "543", "antonio@hotmail.com");
 
             usuarios.Add(Maria);
             usuarios.Add(Joao);
@@ -36,9 +39,9 @@ namespace Sistema_de_Emprestimo
             emprestimos.Add(new Emprestimo(18, Maria, Joao, "05/09/2011"));
         }
 
-        internal void CadastrarUsuario(string nome, string senha)
+        internal void CadastrarUsuario(string nome, string senha, string email)
         {
-            usuarios.Add(new Usuario(nome, senha));
+            usuarios.Add(new Usuario(nome, senha, email));
         }
 
         public List<Emprestimo> obterLista(string nomeCredor, string nomeDevedor)
@@ -134,6 +137,39 @@ namespace Sistema_de_Emprestimo
         internal void ExcluirUsuario(Usuario user)
         {
             usuarios.Remove(user);
+        }
+
+        public Dictionary<string, string> codigosVerificacao = new Dictionary<string, string>();
+        internal bool EnviarEmail(Usuario user)
+        {
+            string assunto = "Código de verificação";
+            string codigo = GerarCodigo();
+            string corpo = $"Seu código de verificação é: {codigo}";
+            string senhaApp = ConfigurationManager.AppSettings["SenhaApp"];
+            string emailApp = ConfigurationManager.AppSettings["EmailApp"];
+
+            SmtpClient cliente = new SmtpClient("smtp.gmail.com", 587);
+            cliente.EnableSsl = true;
+            cliente.Credentials = new NetworkCredential(emailApp, senhaApp);
+
+            MailMessage mensagem = new MailMessage(emailApp, user.email, assunto, corpo);
+
+            try
+            {
+                cliente.Send(mensagem);
+                codigosVerificacao[user.nome.ToLower()] = codigo;
+                return true;
+            }
+            catch
+            {
+                return false;
+            }
+        }
+
+        internal string GerarCodigo()
+        {
+            Random random = new Random();
+            return random.Next(10000, 99999).ToString();
         }
     }
 }

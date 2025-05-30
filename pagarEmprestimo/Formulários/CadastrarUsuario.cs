@@ -24,20 +24,30 @@ namespace PagarEmprestimo
         {
             string nome = txt_nome.Text;
             string senha = txt_senha.Text;
+            string email = txt_email.Text;
             bool existe = s.usuarios.Any(u => u.nome.ToLower() == nome.ToLower());
 
-            if (!string.IsNullOrEmpty(nome) && !string.IsNullOrEmpty(senha))
+            if (!string.IsNullOrEmpty(nome) && !string.IsNullOrEmpty(senha) && !string.IsNullOrEmpty(senha))
             {
-                if (existe)
+                if (email.Contains("@"))
                 {
-                    MessageBox.Show("Já existe usuário com este nome");
-                    return;
+                    if (existe)
+                    {
+                        MessageBox.Show("Já existe usuário com este nome");
+                        return;
+                    }
+                    else
+                    {
+                        s.CadastrarUsuario(nome, senha, email);
+                        MessageBox.Show("Usuário cadastrado com sucesso!");
+                    }
                 }
                 else
                 {
-                    s.CadastrarUsuario(nome, senha);
-                    MessageBox.Show("Usuário cadastrado com sucesso!");
+                    MessageBox.Show("Email inválido");
+                    return;
                 }
+
             } else
             {
                 MessageBox.Show("Preencha devidamente os campos.");

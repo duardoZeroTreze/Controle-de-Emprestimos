@@ -56,3 +56,4 @@ C:\Users\Eduardo\Downloads\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\Siste
 C:\Users\Eduardo\Downloads\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\PagarEmprestimo.exe
 C:\Users\Eduardo\Downloads\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\PagarEmprestimo.pdb
 C:\Users\Eduardo\Downloads\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\PagarEmprestimo.ExcluirUsuario.resources
+C:\Users\Eduardo\Downloads\Sistema de Emprestimo\pagarEmprestimo\obj\Debug\PagarEmprestimo.Formulários.ResetarSenha.resources

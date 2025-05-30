@@ -1,4 +1,5 @@
 ﻿using PagarEmprestimo;
+using PagarEmprestimo.Formulários;
 using Sistema_de_Emprestimo;
 using System;
 using System.Collections.Generic;
@@ -55,6 +56,12 @@ namespace Sistema_de_Emprestimo
         {
             ExcluirUsuario excluirUser = new ExcluirUsuario(sistema);
             excluirUser.Show();
+        }
+
+        private void btn_resetar_Click(object sender, EventArgs e)
+        {
+            ResetarSenha resetarSenha = new ResetarSenha(sistema);
+            resetarSenha.Show();
         }
     }
 }

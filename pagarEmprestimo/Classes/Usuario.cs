@@ -11,10 +11,13 @@ namespace Sistema_de_Emprestimo
         public string nome { get; set; }
         public string senha { get; set; }
 
-        public Usuario(string nome, string senha)
+        public string email {  get; set; }
+
+        public Usuario(string nome, string senha, string email)
         {
             this.nome = nome;
             this.senha = senha;
+            this.email = email;
         }
     }
 }

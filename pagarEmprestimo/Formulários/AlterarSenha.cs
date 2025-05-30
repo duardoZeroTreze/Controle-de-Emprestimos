@@ -40,7 +40,7 @@ namespace Sistema_de_Emprestimo
                     if (s.alterarSenha(nome, senhaNova, senhaAntiga))
                     {
                         MessageBox.Show($"Senha antiga: {senhaAntiga} ; Senha Nova: {senhaNova}");
-                    }S
+                    }
                     else
                     {
                         MessageBox.Show("Usuário não cadastrado ou senha inválida");
