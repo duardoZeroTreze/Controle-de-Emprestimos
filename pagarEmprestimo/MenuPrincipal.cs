@@ -50,5 +50,11 @@ namespace Sistema_de_Emprestimo
             CadastrarUsuario cadastrarUser = new CadastrarUsuario(sistema);
             cadastrarUser.Show();
         }
+
+        private void btn_excluir_Click(object sender, EventArgs e)
+        {
+            ExcluirUsuario excluirUser = new ExcluirUsuario(sistema);
+            excluirUser.Show();
+        }
     }
 }

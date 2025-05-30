@@ -35,6 +35,7 @@
             this.btn_consultar = new System.Windows.Forms.Button();
             this.btn_alterarSenha = new System.Windows.Forms.Button();
             this.btn_cadastrar = new System.Windows.Forms.Button();
+            this.btn_excluir = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -93,7 +94,7 @@
             // btn_alterarSenha
             // 
             this.btn_alterarSenha.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
-            this.btn_alterarSenha.Location = new System.Drawing.Point(50, 276);
+            this.btn_alterarSenha.Location = new System.Drawing.Point(316, 150);
             this.btn_alterarSenha.Name = "btn_alterarSenha";
             this.btn_alterarSenha.Size = new System.Drawing.Size(158, 43);
             this.btn_alterarSenha.TabIndex = 6;
@@ -104,7 +105,7 @@
             // btn_cadastrar
             // 
             this.btn_cadastrar.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
-            this.btn_cadastrar.Location = new System.Drawing.Point(50, 339);
+            this.btn_cadastrar.Location = new System.Drawing.Point(316, 86);
             this.btn_cadastrar.Name = "btn_cadastrar";
             this.btn_cadastrar.Size = new System.Drawing.Size(158, 43);
             this.btn_cadastrar.TabIndex = 7;
@@ -112,11 +113,23 @@
             this.btn_cadastrar.UseVisualStyleBackColor = true;
             this.btn_cadastrar.Click += new System.EventHandler(this.btn_cadastrar_Click);
             // 
+            // btn_excluir
+            // 
+            this.btn_excluir.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.25F);
+            this.btn_excluir.Location = new System.Drawing.Point(316, 213);
+            this.btn_excluir.Name = "btn_excluir";
+            this.btn_excluir.Size = new System.Drawing.Size(158, 43);
+            this.btn_excluir.TabIndex = 8;
+            this.btn_excluir.Text = "Excluir Usuário";
+            this.btn_excluir.UseVisualStyleBackColor = true;
+            this.btn_excluir.Click += new System.EventHandler(this.btn_excluir_Click);
+            // 
             // MenuPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(781, 284);
+            this.Controls.Add(this.btn_excluir);
             this.Controls.Add(this.btn_cadastrar);
             this.Controls.Add(this.btn_alterarSenha);
             this.Controls.Add(this.btn_consultar);
@@ -140,5 +153,6 @@
         private System.Windows.Forms.Button btn_consultar;
         private System.Windows.Forms.Button btn_alterarSenha;
         private System.Windows.Forms.Button btn_cadastrar;
+        private System.Windows.Forms.Button btn_excluir;
     }
 }

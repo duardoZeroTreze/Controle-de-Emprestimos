@@ -130,5 +130,10 @@ namespace Sistema_de_Emprestimo
             }
             return true;
         }
+
+        internal void ExcluirUsuario(Usuario user)
+        {
+            usuarios.Remove(user);
+        }
     }
 }

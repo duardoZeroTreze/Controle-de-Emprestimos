@@ -69,6 +69,12 @@
       <DependentUpon>ConsultarUsuario.cs</DependentUpon>
     </Compile>
     <Compile Include="Emprestimo.cs" />
+    <Compile Include="ExcluirUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExcluirUsuario.Designer.cs">
+      <DependentUpon>ExcluirUsuario.cs</DependentUpon>
+    </Compile>
     <Compile Include="PagarEmprestimo.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -99,6 +105,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="ConsultarUsuario.resx">
       <DependentUpon>ConsultarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExcluirUsuario.resx">
+      <DependentUpon>ExcluirUsuario.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="PagarEmprestimo.resx">
       <DependentUpon>PagarEmprestimo.cs</DependentUpon>
